@@ -8,3 +8,6 @@ There is R script called run_analysis.R, it does the following:
 3. Uses descriptive activity names to name the activities in the dataset.
 4. Appropriately lable the dataset with descrpitive variable names.
 5. From the dataset generated in step 4, create a sceond, independent tidy dataset with the average of each variable for each activity and each subject.
+
+
+The final result is showed in the text file tidy.txt
