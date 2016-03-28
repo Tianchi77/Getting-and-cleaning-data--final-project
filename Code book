@@ -1,7 +1,0 @@
-# Code book
-This code book summaries the final data in tidy.txt
-
-## Identifiers
-* "Subject" -- ID of the test subject
-* "activity" -- Type of activity performed when the corresponding measurements are taken
-
